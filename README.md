@@ -8,8 +8,8 @@ This program can help you to enjoy mechenical keyboard sound while typing in you
   For Ubuntu - sudo apt-get install libncurses5-dev libncursesw5-dev
 
 ### Compile the code And run the program
-Run this command -  g++ main.cpp -lsfml-audio -lncurses
-Run program using -  ./a.out
+# Run this command -  g++ main.cpp -lsfml-audio -lncurses
+# Run program using -  ./a.out
 
 ## SFML
 Simple and Fast Multimedia Library is a cross-platform software development library designed to provide a simple application programming interface to various multimedia components in computers.
